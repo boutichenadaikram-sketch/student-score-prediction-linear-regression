@@ -16,17 +16,22 @@ It demonstrates:
 
 
 ## Project Structure
-├─.ipynb_checkpoints
-├─ data/                     # Contains the dataset CSV file
-├─ results/                  # Contains generated plots
-│   ├─ plot1_DataDistribution.png
-│   ├─ plot2_LossvaluesVsIterations.png
-│   └─ plot3_FitingLine.png
-├─ summary/                  # Contains handwritten summary images
-│   ├─ 1.png
-│   └─ 2.png
-├─ linear_regression_model.ipynb  # Jupyter Notebook with the code
-└─ README.md
+─.ipynb_checkpoints
+
+─ data/                     # Contains the dataset CSV file
+
+─ results/                  # Contains generated plots
+   ├─ plot1_DataDistribution.png
+   ├─ plot2_LossvaluesVsIterations.png
+   └─ plot3_FitingLine.png
+
+─ summary/                  # Contains handwritten summary images
+   ├─ 1.png
+   └─ 2.png
+
+─ linear_regression_model.ipynb  # Jupyter Notebook with the code
+
+─ README.md
 
 
 ## Plots
